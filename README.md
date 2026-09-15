@@ -43,3 +43,8 @@ The project is intentionally presented as work in progress. Completed foundation
 Copyright © 2026 Claudia Garau. All rights reserved.
 
 This repository contains documentation only. No license is granted to copy, redistribute or commercially exploit the private implementation, product identity or associated assets.
+
+
+## Portfolio code samples
+
+The `portfolio-review` branch includes small, runnable TypeScript excerpts and tests covering sync planning, idempotency and retry handling. Production adapters, account integrations and operational configuration remain private.
